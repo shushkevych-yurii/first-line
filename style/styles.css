@@ -1,0 +1,36 @@
+
+.body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #d6d6d6;
+    
+}
+
+.gorgany {
+    padding: top 25px;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    background-color: rgb(232, 153, 153);
+    
+}
+
+
+.bar{
+    background-color: rgb(186, 186, 186);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: flex-start; 
+    border: 1px solid #000000;
+      
+}
+.link {
+    color: teal;
+  }
+  
+  .link:hover {
+    color: tomato;
+  }
+
+
+
